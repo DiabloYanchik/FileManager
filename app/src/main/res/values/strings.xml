@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="create_folder">Создать папку</string>
+    <string name="rename">Переименовать</string>
+    <string name="delete">Удалить</string>
+    <string name="new_file_or_folder">Новый файл/папка</string>
+    <string name="create">Создать</string>
+    <string name="create_file">Создать файл</string>
+</resources>
